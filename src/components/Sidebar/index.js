@@ -24,7 +24,6 @@ const Sidebar = ({ togle, isOpen }) => {
             duration={800}
             offset={79}
             onClick={togle}
-            onClick={togle}
             to="home"
           >
             Home
@@ -44,7 +43,6 @@ const Sidebar = ({ togle, isOpen }) => {
             smooth={true}
             duration={800}
             offset={60}
-            onClick={togle}
             onClick={togle}
             spy={true}
             to="mitra"

@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import { Button } from "../ButtonElement";
 import Bounce from "react-reveal/Bounce";
 import Hero from "../../images/hero.svg";
 import {
